@@ -24,6 +24,7 @@ m_d.csv: miRNA-disease association matrix
 m_m_f.csv: miRNA functional similatiry matrix
 m_m_s.csv: miRNA  sequence similarity matrix
 miR_name.csv: list of miRNA names
+miR-sequence.csv: miRNA  sequence
 
 #### Contacts
 
